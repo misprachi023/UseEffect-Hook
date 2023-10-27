@@ -1,0 +1,27 @@
+button{
+  padding: 10px;
+  font-size: 23px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: beige;
+  border: none;
+  margin-left: 35%;
+  
+
+}
+button:hover{
+  background-color: aqua;
+}
+h1{
+  color: red;
+  text-align: center;
+}
+
+body{
+  /* border: 2px solid red; */
+  width: 30%;
+  margin: auto;
+  margin-top: 30px;
+  padding: 10px;
+  box-shadow: rgba(5, 99, 231, 0.35) 0px 5px 15px;
+}
